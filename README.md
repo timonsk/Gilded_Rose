@@ -1,4 +1,4 @@
-﻿# Gilded_Rose solution
+﻿# Gilded Rose solution
 Basic refactored solution for Gilded Rose problem. 
 Requirements could be found here: [GildedRoseRequirements.txt](https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt)
 - Solution consist of 2 projects: 
